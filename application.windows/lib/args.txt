@@ -1,0 +1,3 @@
+
+pngmarkerdetection
+pngmarkerdetection.jar,core.jar,video.jar,NyAR4psg.jar,NyAR4psg2b.jar,NyARToolkit.jar
